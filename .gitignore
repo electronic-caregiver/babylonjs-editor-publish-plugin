@@ -2,3 +2,6 @@
 node_modules/
 build
 declaration
+
+#don't commit the local zip
+/babylonjs-editor-publish-plugin.zip
