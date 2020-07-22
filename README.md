@@ -33,7 +33,7 @@ Open the Babylon Editor, and open the Preferences tab (Edit > Preferences). Navi
 
 ![](readme_images/preferences.PNG)
 
-Then navigate to the folder where the plugin was cloned and installed, and choose Select Folder.
+Click Add..., then navigate to the folder where the plugin was cloned and installed, and choose Select Folder.
 
 ![](readme_images/choose-plugin.PNG)
 
