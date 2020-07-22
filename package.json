@@ -1,11 +1,10 @@
 {
   "name": "babylonjs-editor-publish-plugin",
   "version": "1.0.0",
-  "description": "",
+  "description": "plugin to serialize and publish scenes to cloud provider (AWS currently supported)",
   "main": "build/src/index.js",
   "author": {
-    "name": "Julien Moreau-Mathis",
-    "url": "https://medium.com/@Luaacro"
+    "name": "Jeremy Keys"
   },
   "scripts": {
     "compile": "tsc -p .",
