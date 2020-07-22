@@ -1,0 +1,4 @@
+#don't commit our dependencies, you SHALL build from source
+node_modules/
+build
+declaration

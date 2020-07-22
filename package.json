@@ -1,0 +1,26 @@
+{
+  "name": "babylonjs-editor-publish-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/src/index.js",
+  "author": {
+    "name": "Julien Moreau-Mathis",
+    "url": "https://medium.com/@Luaacro"
+  },
+  "scripts": {
+    "compile": "tsc -p .",
+    "watch": "tsc -p . --watch"
+  },
+  "devDependencies": {
+    "babylonjs-editor": "4.0.0-beta.3",
+    "typescript": "3.7.5"
+  },
+  "dependencies": {
+    "@aws-sdk/client-cloudfront-node": "0.1.0-preview.2",
+    "@aws-sdk/client-s3": "^1.0.0-gamma.4",
+    "aws-sdk": "^2.717.0",
+    "buffer": "^5.6.0",
+    "file-system": "^2.2.2",
+    "path": "^0.12.7"
+  }
+}
