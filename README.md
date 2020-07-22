@@ -31,19 +31,19 @@ If `aws configure` is a recognized command, but there is no `default` profile se
 
 Open the Babylon Editor, and open the Preferences tab (Edit > Preferences). Navigate to the Plugins tab.
 
-![](readme_images/preferences.png)
+![](readme_images/preferences.PNG)
 
 Then navigate to the folder where the plugin was cloned and installed, and choose Select Folder.
 
-![](readme_images/choose-plugin.png)
+![](readme_images/choose-plugin.PNG)
 
 Hit Apply. The plugin should now be loaded; if you go back to Edit > Preferences > Plugins, you should see the loaded plugin.
 
-![](readme_images/plugin-loaded.png)
+![](readme_images/plugin-loaded.PNG)
 
 You can now enter the S3 bucket name, distribution ID (if using CloudFront), and object path. Hit publish and check the S3 bucket to see if your upload succeeded.
 
-![](readme_images/choose-preferences.png)
+![](readme_images/choose-preferences.PNG)
 
 ![](readme_images/upload-succeeds.gif)
 
